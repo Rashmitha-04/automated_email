@@ -4,10 +4,10 @@ A simple Python script to send automated emails with attachments using Gmail SMT
 
 # Features 
 
-Send emails with attachments (PDF, images, etc.)
-Uses Gmail SMTP with SSL for secure connection
-Credentials loaded securely from `.env` file
-Easy to customize recipient, subject, and message
+-Send emails with attachments (PDF, images, etc.)
+-Uses Gmail SMTP with SSL for secure connection
+-Credentials loaded securely from `.env` file
+-Easy to customize recipient, subject, and message
 
 ## Setup
 
